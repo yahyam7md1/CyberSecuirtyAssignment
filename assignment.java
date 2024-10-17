@@ -103,7 +103,7 @@ public class assignment {
         plaintexts.add("CRASH_BANDICOOT");
         plaintexts.add("PLAYSTATION5");
         plaintexts.add("FREE_PALESTINE");
-        plaintexts.add("FREE_SYRIA");
+        plaintexts.add("HELLO_WORLD");
 
         // Lists to store keys, ciphertexts, and decrypted texts
         List<String> keys = new ArrayList<>();
